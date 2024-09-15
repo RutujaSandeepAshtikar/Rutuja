@@ -7,3 +7,9 @@ git stash list
 git stash apply
 git stash apply stashid
 git stash apply pop
+
+Repository->Local
+remote->
+
+To create local repo->git init
+remote repo->github account
