@@ -13,3 +13,32 @@ remote->
 
 To create local repo->git init
 remote repo->github account
+
+
+github
+
+git remote -v
+git remote add origin url
+git config list
+ls
+git push origin master
+
+Lets connect local with repo
+1.create a remote repo
+2.try add a file over remote repo
+3.go to the local repo-->check the status and everything
+4.connect remote with local-->git remote add origin remote repo url
+5.cross check
+
+To push and pull into remote repo:->
+git clone"URL"
+cd FileName
+ls
+git Add .//Add the file into folder
+git commit 
+git pull origin master
+git push -u origin master
+//your file is added to the remote repo
+
+
+
