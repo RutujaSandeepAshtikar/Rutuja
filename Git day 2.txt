@@ -1,0 +1,9 @@
+day 2
+Statshing
+cheery pick
+
+git stash
+git stash list
+git stash apply
+git stash apply stashid
+git stash apply pop
